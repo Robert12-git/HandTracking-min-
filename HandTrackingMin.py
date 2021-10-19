@@ -8,7 +8,6 @@ import time
 import math
 
 val = int (input ("Enter number of seconds program should run: "))
-print (val)
 
 # Start video capture to have data to analyze
 cap = cv2.VideoCapture (0)
